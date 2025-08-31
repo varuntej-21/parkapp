@@ -1,12 +1,12 @@
 streamlit==1.49.1
 opencv-python-headless==4.8.1.78
-numpy==1.23.5
+numpy==1.23.5  # ← MUST DOWNGrade for super-gradients
 Pillow==10.0.1
 torch==2.1.0
 torchvision==0.16.0
 filterpy==1.4.5
 scipy==1.11.3
 deep-sort-realtime==1.3.2
+numpy==1.23.5 
 super-gradients==3.5.0
-
-
+numpy==1.23.5 
