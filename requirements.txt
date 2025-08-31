@@ -6,9 +6,10 @@ torch==2.2.2
 torchvision==0.17.2
 torchaudio==2.2.2
 pillow==10.3.0
-numpy==1.26.4
+numpy==1.23.5
 scipy==1.13.1
 matplotlib==3.9.2
 pyyaml==6.0.2
 tqdm==4.66.5
 rich==13.9.2
+
